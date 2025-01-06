@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-// Classe para manipular o formulário
 class FormHandler {
     private static final String FORM_FILE = "formulario.txt";
     private List<String> perguntas = new ArrayList<>();
