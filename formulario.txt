@@ -3,4 +3,4 @@
 3 - Qual sua idade?
 4 - Qual sua altura?
 
-6 - Qual o seu telefone
+
